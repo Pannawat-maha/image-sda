@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <img
+    src="file:///C:/Users/GIGABYTE/AppData/Local/Packages/FACEBOOK.317180B0BB486_8xx8rvfyw5nnt/AC/Messenger/TamStorage/media_bank/AdvancedCrypto/100015822197866/persistent/att.6jUYoD2dAFYmtmVPrZzIXuI8bRVBmak0kcuSKke4Xn4.jpg"
+    width="500px" height="100px">
+  <img
+    src="file:///C:/Users/GIGABYTE/AppData/Local/Packages/FACEBOOK.317180B0BB486_8xx8rvfyw5nnt/AC/Messenger/TamStorage/media_bank/AdvancedCrypto/100015822197866/persistent/att.gzwfCIwNC0frzuMTfWwD1uwgOGKN7EXMtk0XpvT3wow.jpg"
+     width="150px" height="200px">
+  
+  </body>
+
+</html>
